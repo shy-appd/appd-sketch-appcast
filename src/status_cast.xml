@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>AppDynamics - Status Plugin</title>
+<link>http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/status_cast.xml</link>
+<description>AppDynamics component status and demo plugin.</description>
+<language>en</language>
+<item>
+  <title>Version 1.1.1</title>
+  <description>
+    Fix mixin bug.
+  </description>
+  <enclosure url="http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/appdynamics-status.sketchplugin-1.1.1.zip" sparkle:version="1.1.1"/>
+</item>
+<item>
+  <title>Version 1.1.0</title>
+  <description>
+    Better searching algorithm and add compliance tab.
+  </description>
+  <enclosure url="http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/appdynamics-status.sketchplugin-1.1.0.zip" sparkle:version="1.1.0"/>
+</item>
+<item>
+  <title>Version 1.0.0</title>
+  <description>
+    Initial release
+  </description>
+  <enclosure url="http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/appdynamics-status.sketchplugin-1.0.0.zip" sparkle:version="1.0.0"/>
+</item>
+</channel>
+</rss>
