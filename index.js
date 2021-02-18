@@ -67,6 +67,10 @@ appcasts.forEach(a => {
   })
 })
 
+app.get('/', (req, res, next) => {
+  res.render("<h1>AppDynamics Sketch Plugins AppCast</h1>")
+})
+
 //////////////////////////////
 // Start the server
 //////////////////////////////
