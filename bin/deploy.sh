@@ -13,6 +13,9 @@ cd appd-sketch-appcast/
 echo "Pull from repo"
 git pull
 
+echo "Restart app"
+pm2 restart index
+
 echo "Restarting nginx"
 sudo service nginx restart
 

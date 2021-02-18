@@ -34,6 +34,10 @@ var appcasts = [
     file: "./src/appdynamics-status.sketchplugin-1.1.0.zip"
   },
   {
+    url: "/appdynamics-status.sketchplugin-1.2.0.zip",
+    file: "./src/appdynamics-status.sketchplugin-1.2.0.zip"
+  },
+  {
     url: "/appdynamics-status.sketchplugin-1.1.1.zip",
     file: "./src/appdynamics-status.sketchplugin-1.1.1.zip"
   },
@@ -68,7 +72,7 @@ appcasts.forEach(a => {
 })
 
 app.get('/', (req, res, next) => {
-  res.render("<h1>AppDynamics Sketch Plugins AppCast</h1>")
+  res.send("<h1>AppDynamics Sketch Plugins AppCast</h1>")
 })
 
 //////////////////////////////
