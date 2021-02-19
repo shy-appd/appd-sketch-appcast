@@ -10,28 +10,28 @@
   <description>
     Add redline function, additional alogrithm fixes.
   </description>
-  <enclosure url="http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/appdynamics-status.sketchplugin-1.2.0.zip" sparkle:version="1.2.0"/>
+  <enclosure url="https://github.com/shy-appd/appd-sketch-appcast/blob/master/src/appdynamics-status.sketchplugin-1.2.0.zip?raw=true" sparkle:version="1.2.0"/>
 </item>
 <item>
   <title>Version 1.1.1</title>
   <description>
     Fix mixin bug.
   </description>
-  <enclosure url="http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/appdynamics-status.sketchplugin-1.1.1.zip" sparkle:version="1.1.1"/>
+  <enclosure url="https://github.com/shy-appd/appd-sketch-appcast/blob/master/src/appdynamics-status.sketchplugin-1.1.1.zip?raw=true" sparkle:version="1.1.1"/>
 </item>
 <item>
   <title>Version 1.1.0</title>
   <description>
     Better searching algorithm and add compliance tab.
   </description>
-  <enclosure url="http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/appdynamics-status.sketchplugin-1.1.0.zip" sparkle:version="1.1.0"/>
+  <enclosure url="https://github.com/shy-appd/appd-sketch-appcast/blob/master/src/appdynamics-status.sketchplugin-1.1.0.zip?raw=true" sparkle:version="1.1.0"/>
 </item>
 <item>
   <title>Version 1.0.0</title>
   <description>
     Initial release
   </description>
-  <enclosure url="http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/appdynamics-status.sketchplugin-1.0.0.zip" sparkle:version="1.0.0"/>
+  <enclosure url="https://github.com/shy-appd/appd-sketch-appcast/blob/master/src/appdynamics-status.sketchplugin-1.0.0.zip?raw=true" sparkle:version="1.0.0"/>
 </item>
 </channel>
 </rss>
