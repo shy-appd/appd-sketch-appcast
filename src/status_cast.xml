@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>AppDynamics - Status Plugin</title>
-<link>http://ec2-54-184-14-55.us-west-2.compute.amazonaws.com/status_cast.xml</link>
+<link>https://raw.githubusercontent.com/shy-appd/appd-sketch-appcast/master/src/status_cast.xml</link>
 <description>AppDynamics component status and demo plugin.</description>
 <language>en</language>
 <item>
