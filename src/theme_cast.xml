@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>AppDynamics - Theme Plugin</title>
+<link>https://raw.githubusercontent.com/shy-appd/appd-sketch-appcast/master/src/theme_cast.xml</link>
+<description>AppDynamics theme plugin.</description>
+<language>en</language>
+<item>
+  <title>Version 1.0.0</title>
+  <description>
+    Initial Release
+  </description>
+  <enclosure url="https://github.com/shy-appd/appd-sketch-appcast/raw/master/src/appdynamics-theme.sketchplugin-1.0.0.zip" sparkle:version="1.0.0"/>
+</item>
+</channel>
+</rss>
